@@ -27,4 +27,4 @@ O material aqui disponibilizado foi criado e validado a partir da experiência p
 **Jorge Fiore de Oliveira Junior**
 
 ## 📄 Licença
-Este projeto está sob a licença [CC BY-NC-ND 3.0 BR](https://creativecommons.org/licenses/by-nc-nd/3.0/br/deed.pt-br).
+Este projeto está sob a [licença CC BY-NC-ND 3.0 BR](https://creativecommons.org/licenses/by-nc-nd/3.0/br/deed.pt-br).
