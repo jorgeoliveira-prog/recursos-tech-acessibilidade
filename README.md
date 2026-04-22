@@ -4,8 +4,8 @@ Repositório técnico com configurações, atalhos e fluxos de trabalho para pes
 
 ## Público-Alvo
 
-- Pessoas cegas ou com baixa visão.
-- Profissionais de T.I.
+- Pessoas cegas ou com baixa visão da área de T.I.
+- Profissionais de T.I sem deficiência.
 
 ## O que este repositório oferece
 
