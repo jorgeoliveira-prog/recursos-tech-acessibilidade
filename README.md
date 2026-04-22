@@ -1,30 +1,42 @@
 # Recursos Tech Acessibilidade
 
-Este repositório reúne materiais didáticos originais desenvolvidos para promover a autonomia de pesoas com deficiência visual em ambientes de tecnologia.
+Repositório técnico com configurações, atalhos e fluxos de trabalho para pessoas com deficiência visual em ambientes de T.I.
 
-## 🎯 Público-Alvo
-* Pessoas cegas ou com baixa visão.
-* Professores de tecnologia da informação (T.I.) que buscam práticas inclusivas.
-* Profissionais de T.I.
+## Público-Alvo
 
-## 📝 Contexto e Validação
-O material aqui disponibilizado foi criado e validado a partir da experiência prática no ensino de T.I. para pessoas com deficiência visual. O conteúdo reflete o conhecimento técnico aplicado no cotidiano de estudantes que usam leitores de tela e navegação via teclado.
+- Pessoas cegas ou com baixa visão.
+- Profissionais de T.I.
+
+## O que este repositório oferece
+
+- **Configurações prontas:** arquivos de configuração para ambientes de desenvolvimento e banco de dados.
+- **Tabelas de atalhos:** referências rápidas de teclado para DBeaver e VS Code.
+- **Scripts de exemplo:** SQL e TypeScript para praticar os fluxos de trabalho.
+- **Guias em PDF:** documentação completa em releases.
+
+## Downloads Rápidos (PDF)
+
+- [Guia Prático de Configuração e Uso do DBeaver](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-dbeaver/guiaDBeaverAcessibilidade.pdf)
+- [Guia Prático de TypeScript no VS Code](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-typescript/guiaConfiguracaoTypeScriptVSCode.pdf)
+
+## Estrutura do Repositório
+
+```
+.
+├── banco-de-dados/        # Configurações, atalhos e scripts para DBeaver
+├── desenvolvimento/       # Configurações, atalhos e scripts para VS Code / TypeScript
+├── LICENSE.md             # Licença CC BY-NC-ND 3.0 BR
+└── README.md
+```
+
+## Diferenciais Técnicos
+
+- **Navegação por teclado:** todos os fluxos foram pensados para uso com atalhos de teclado.
+- **Compatibilidade com NVDA:** configurado e testado com leitor de tela NVDA.
+
+## Licença
+
+[CC BY-NC-ND 3.0 BR](LICENSE.md) — Atribuição, Não Comercial, Sem Derivações.
 
 ---
-
-## ⬇️ Downloads Rápidos (PDF)
-* 🗄️ [Guia Prático de Configuração e Uso do DBeaver: Autonomia para Pessoas com Deficiência Visual](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-dbeaver/guiaDBeaverAcessibilidade.pdf)
-  
-* 💻 [Guia Prático para Uso de Pessoa com Deficiência Visual: Configuração e Execução TypeScript no VS Code](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-typescript/guiaConfiguracaoTypeScriptVSCode.pdf)
-
----
-
-## 🛠️ Diferenciais Técnicos
-* **Navegação:** Roteiros otimizados para atalhos de teclado.
-* **Compatibilidade:** Testado com leitor de tela NVDA.
-
-## 🎓 Autor
-**Jorge Fiore de Oliveira Junior**
-
-## 📄 Licença
-Este projeto está sob a [licença CC BY-NC-ND 3.0 BR](https://creativecommons.org/licenses/by-nc-nd/3.0/br/deed.pt-br).
+Jorge Fiore de Oliveira Junior
