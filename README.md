@@ -9,9 +9,6 @@ Repositório técnico com configurações, atalhos e fluxos de trabalho para pes
 
 ## O que este repositório oferece
 
-- **Configurações prontas:** arquivos de configuração para ambientes de desenvolvimento e banco de dados.
-- **Tabelas de atalhos:** referências rápidas de teclado para DBeaver e VS Code.
-- **Scripts de exemplo:** SQL e TypeScript para praticar os fluxos de trabalho.
 - **Guias em PDF:** documentação completa em releases.
 
 ## Downloads Rápidos (PDF)
@@ -23,8 +20,8 @@ Repositório técnico com configurações, atalhos e fluxos de trabalho para pes
 
 ```
 .
-├── banco-de-dados/        # Configurações, atalhos e scripts para DBeaver
-├── desenvolvimento/       # Configurações, atalhos e scripts para VS Code / TypeScript
+├── banco-de-dados/        # Guia Práico DBeaver
+├── desenvolvimento/       # Guia Prático Typescript no VS Code
 ├── LICENSE.md             # Licença CC BY-NC-ND 3.0 BR
 └── README.md
 ```
