@@ -30,8 +30,8 @@ Repositório técnico com guias, configurações, atalhos de teclado e reflexõe
 │   └── ...                     # Materiais sobre DBeaver e acesso a bancos de dados
 ├── desenvolvimento/
 │   └── ...                     # Materiais sobre VS Code, TypeScript e desenvolvimento acessível
-├── organizacoes/
-│   └── guia-onboarding-dev-deficiencia-visual.pdf
+├── organizacoes/               # Materiais para Líderes de times de T.I., coordenações, gestores e organizações
+│   └── ...
 ├── LICENSE.md                  # Licença CC BY-NC-ND 3.0 BR
 └── README.md
 ```
