@@ -16,8 +16,6 @@ Repositório técnico com guias, configurações, atalhos de teclado e reflexõe
 
 ## Downloads rápidos (PDF)
 
-> Atualize os links abaixo de acordo com os releases publicados.
-
 - [Guia Prático de Configuração e Uso do DBeaver](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-dbeaver/guiaDBeaverAcessibilidade.pdf)
 - [Guia Prático de TypeScript no VS Code](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-typescript/guiaConfiguracaoTypeScriptVSCode.pdf)
 - [Guia para líderes de times de TI: como receber um dev com deficiência visual](https://github.com/jorgeoliveira-prog/recursos-tech-acessibilidade/releases/download/v-onboarding-dev-deficiencia-visual/guia-onboarding-dev-deficiencia-visual.pdf)
